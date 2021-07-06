@@ -1,0 +1,2 @@
+untuk database bisa diakses di folder :
+database/DBtestklinik.sql
